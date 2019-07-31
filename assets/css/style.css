@@ -1,0 +1,16 @@
+li, li a {
+	color: #8A0808;
+}
+
+.favFood a {
+	color: pink; 
+}
+.badFood a {
+	color: purple; 
+}
+
+@media (max-width: 600px){
+	body{
+		display: none;
+	}
+}
